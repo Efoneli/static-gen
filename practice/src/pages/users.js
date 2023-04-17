@@ -1,3 +1,5 @@
+import User from '../components/user'
+
 function UserDetails({ users }) {
     return (
         <>

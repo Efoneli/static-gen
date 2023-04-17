@@ -6,7 +6,7 @@ export default function Home() {
       <h1>Welcome to home</h1>
       <p>We provide all the best service you could ever think of</p>
       <Link href='/posts'>
-        <a>Posts</a>
+        Posts
       </Link>
     </>
   )
